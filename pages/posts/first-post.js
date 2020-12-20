@@ -16,7 +16,12 @@ export default function FirstPost() {
             <a href= "https://segelstein.com/">דיני עבודה</a>
             <a href="http://www.hup.co.il/link/%D7%A2%D7%95%D7%A8%D7%9A-%D7%93%D7%99%D7%9F/63118-%D7%96%D7%92%D7%9C%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%9E%D7%A9%D7%A8%D7%93-%D7%A2%D7%95%D7%93">תאונת עבודה</a>
             <a href= "https://workaccident.vercel.app/">תאונת עבודה</a>
-
+            <a href="https://www.hamlatza.co.il/index2.php?id=7778&lang=HEB">המלצות משרד עו"ד זגלשטיין</a>
+            <a href="https://bituahleumi.vercel.app/">ביטוח לאומי</a>
+            <a href="https://realestatelaw.vercel.app/">עורך דין מקרקעין</a>
+            <a href="https://handicap.vercel.app/">עורך דין נכות כללית</a>
+            <a href="https://malpractice.vercel.app/">רשלנות רפואיץ</a>
+            <a href="https://worklaws.vercel.app/">עורך דין דיני עבודה</a>
             <style jsx>{`
             .container {
               min-height: 100vh;
