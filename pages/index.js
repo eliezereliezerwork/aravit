@@ -5,13 +5,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>עורך דין תביעות דיבה ולשון הרע</title>
+        <title>עורך דין תביעות משרד הביטחון</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-        צור קשר <a href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%93%d7%99%d7%91%d7%94-%d7%95%d7%9c%d7%a9%d7%95%d7%9f-%d7%94%d7%a8%d7%a2/">תביעות דיבה ולשון הרע</a>
+        צור קשר <a href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%9e%d7%a9%d7%a8%d7%93-%d7%94%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f/">תביעות משרד הביטחון</a>
         </h1>
 
         <p className="description">
@@ -19,35 +19,35 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%93%d7%99%d7%91%d7%94-%d7%95%d7%9c%d7%a9%d7%95%d7%9f-%d7%94%d7%a8%d7%a2/" className="card">
-            <h3>תביעות דיבה ולשון הרע &rarr;</h3>
+          <a href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%9e%d7%a9%d7%a8%d7%93-%d7%94%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f/" className="card">
+            <h3>תביעות משרד הביטחון &rarr;</h3>
             <p>אם זה קרה לך , תתבע. אל תוותר, אל תכעס, תתבע. צור קשר עם עורך דין </p>
           </a>
 
-          <a href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%93%d7%99%d7%91%d7%94-%d7%95%d7%9c%d7%a9%d7%95%d7%9f-%d7%94%d7%a8%d7%a2/" className="card">
+          <a href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%9e%d7%a9%d7%a8%d7%93-%d7%94%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f/" className="card">
             <h3>צור קשר &rarr;</h3>
-            <p>עורך דין תביעות דיבה ולשון הרע</p>
+            <p>עורך דין תביעות משרד הביטחון</p>
           </a>
 
           <a
-            href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%93%d7%99%d7%91%d7%94-%d7%95%d7%9c%d7%a9%d7%95%d7%9f-%d7%94%d7%a8%d7%a2/"
+            href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%9e%d7%a9%d7%a8%d7%93-%d7%94%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f/"
             className="card"
           >
-            <h3>תביעות דיבה ולשון הרע &rarr;</h3>
-            <p>עורך דין לתביעות דיבה ולשון הרע, עוד תביעות דיבה ולשון הרע, עורך דין תביעות דיבה ולשון הרע</p>
+            <h3>תביעות משרד הביטחון &rarr;</h3>
+            <p>עורך דין לתביעות משרד הביטחון, עוד תביעות משרד הביטחון, עורך דין תביעות משרד הביטחון</p>
           </a>
 
           <a
-            href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%93%d7%99%d7%91%d7%94-%d7%95%d7%9c%d7%a9%d7%95%d7%9f-%d7%94%d7%a8%d7%a2/"
+            href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%9e%d7%a9%d7%a8%d7%93-%d7%94%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f/"
             className="card"
           >
-            <h3>תביעות דיבה ולשון הרע &rarr;</h3>
+            <h3>תביעות משרד הביטחון &rarr;</h3>
             <p>
               אל תצא פראייר תתטבע את המעסיק שלך, יש חוקים פה.
             </p>
           </a>
           <a
-            href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%93%d7%99%d7%91%d7%94-%d7%95%d7%9c%d7%a9%d7%95%d7%9f-%d7%94%d7%a8%d7%a2/"
+            href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%9e%d7%a9%d7%a8%d7%93-%d7%94%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f/"
             className="card"
           ></a>
         </div>
@@ -63,7 +63,7 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%93%d7%99%d7%91%d7%94-%d7%95%d7%9c%d7%a9%d7%95%d7%9f-%d7%94%d7%a8%d7%a2/"
+          href="https://segelstein.com/%d7%aa%d7%91%d7%99%d7%a2%d7%95%d7%aa-%d7%9e%d7%a9%d7%a8%d7%93-%d7%94%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f/"
           target="_blank"
           rel="noopener noreferrer"
         >
