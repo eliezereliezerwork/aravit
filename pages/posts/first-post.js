@@ -24,6 +24,7 @@ export default function FirstPost() {
             <a href="https://worklaws.vercel.app/">עורך דין דיני עבודה</a>
             <a href="https://libel.vercel.app/">עורך דין דיבה ולשון הרע</a>
             <a href="https://worklaws.vercel.app/">עורך דין דיני עבודה</a>
+            <a href="https://bitahon.vercel.app/">משרד הביטחון</a>
             <a href="https://he.mypen.net/news/264729">עורך דין זגלשטיין מאמר על פסק דין זכותי</a>
             <p>זכותי מתווכים בינכם לבין גורמים הרשאים לתבוע ולאבחן כגון עורכי דין ורופאים, וגוזלים ממכם את כספכם, זכותם שלא יינצלו את תמימותכם, אל תוותרו אל תצאו פראיירים, תטבעו</p>
             <a href="https://he.mypen.net/business/264727">עורך דין זגלשטיין מאמר על תאונות עבודה, איך צריך לנהוג</a>
